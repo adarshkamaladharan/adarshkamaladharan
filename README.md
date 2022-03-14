@@ -1,2 +1,1 @@
-# adarshkamaladharan
- 
+[![Adarsh Kamaladharan](./assets/banner.png)](https://www.linkedin.com/in/adarshkamaladharan/)
