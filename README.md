@@ -6,4 +6,3 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=F56040)](https://www.instagram.com/adarsh_kamaladharan/)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshkamaladharan&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)  
