@@ -1,4 +1,4 @@
-[![Adarsh Kamaladharan](./assets/banner.png)](https://www.linkedin.com/in/adarshkamaladharan/)
+<!--- [![Adarsh Kamaladharan](./assets/banner.png)](https://www.linkedin.com/in/adarshkamaladharan/) --->
 
 [![Visits Badge](https://gpvc.arturio.dev/adarshkamaladharan)](https://github.com/adarshkamaladharan)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/adarshk90)
